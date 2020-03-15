@@ -21,6 +21,7 @@ public class UserController {
         for (User user1 : user) {
             int id = user1.getId();
             System.out.println(id);
+            System.out.println("im zhw1");
         }
         return user;
     }
