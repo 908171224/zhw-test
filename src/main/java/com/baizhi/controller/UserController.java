@@ -22,6 +22,7 @@ public class UserController {
             int id = user1.getId();
             System.out.println(id);
             System.out.println("im zhw1");
+            System.out.println("im zhw2");
         }
         return user;
     }
